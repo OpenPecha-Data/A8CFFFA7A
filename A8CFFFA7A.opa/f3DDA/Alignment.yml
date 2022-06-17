@@ -1,0 +1,19 @@
+segment_sources:
+  IF1A804E8:
+    type: origin_type
+    relation: translation
+    language: en
+  I9DE01ECD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b27eb45f113c48f8a16244ab7057d6cc:
+    IF1A804E8: d1b09839e0304071b595027737e40eb9
+    I9DE01ECD: ba85c2ae4fc843ab8b7bde44421aa430
+  92724689251d4b90a9b90ac4410e52cd:
+    IF1A804E8: 004fe6405e574d988dbd3d309fc4547c
+    I9DE01ECD: bafe2e7689df46b38680c19d0da28234
+  93f9d3ec152e46e89f7f6b17159603f4:
+    IF1A804E8: 3bba37ba335243189fff5bc4f298a7b7
+    I9DE01ECD: 1d2bb30ae869448bb8ad965329c1191a
